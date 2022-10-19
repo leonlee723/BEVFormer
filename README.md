@@ -1,5 +1,5 @@
 <div align="center">   
-# Myself branch  
+# Myself branch
 # BEVFormer: a Cutting-edge Baseline for Camera-based Detection
 </div>
 
