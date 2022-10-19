@@ -1,9 +1,4 @@
 <div align="center">   
-<<<<<<< HEAD
-
-=======
-# Myself branch
->>>>>>> 217fa92b8883906c12fa7d26a129f90dedb627a9
 # BEVFormer: a Cutting-edge Baseline for Camera-based Detection
 ## myself
 </div>
